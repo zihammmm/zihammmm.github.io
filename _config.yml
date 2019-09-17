@@ -80,7 +80,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:zihammmm/zihammmm.github.io.git
-  branch: m
+  branch: master
 
 
 # hexo-neat
